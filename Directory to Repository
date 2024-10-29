@@ -14,3 +14,7 @@ General Creation:
 git remote add origin https://github.com/"username"/"name".git
 git branch -M main
 git push -u origin main
+
+After linking with SSH key:
+In directory:
+git remote set-url origin git@github.com:username/reponame.git
