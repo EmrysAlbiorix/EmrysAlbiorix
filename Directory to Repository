@@ -1,0 +1,16 @@
+For this repository:
+git remote add origin https://github.com/EmrysAlbiorix/EmrysAlbiorix.git
+git branch -M main
+git push -u origin main
+echo "# EmrysAlbiorix" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+
+or
+
+General Creation:
+git remote add origin https://github.com/"username"/"name".git
+git branch -M main
+git push -u origin main
